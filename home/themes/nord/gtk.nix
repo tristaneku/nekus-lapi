@@ -10,8 +10,8 @@
     };
 
     theme = {
-      name = "Nordic";
-      package = pkgs.nordic;
+      name = "Qogir-Dark";
+      package = pkgs.qogir-theme;
     };
 
     iconTheme = {
@@ -20,7 +20,7 @@
     };
 
     cursorTheme = {
-      name = "phinger-cursors";
+      name = "phinger-cursors-dark";
       package = pkgs.phinger-cursors;
       size = 24;
     };
