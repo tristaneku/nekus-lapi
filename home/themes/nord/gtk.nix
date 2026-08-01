@@ -20,7 +20,7 @@
     cursorTheme = {
       name = "phinger-cursors-dark";
       package = pkgs.phinger-cursors;
-      size = 16;
+      size = 24;
     };
   };
 }
