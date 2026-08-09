@@ -5,6 +5,7 @@
     enableDefaultPackages = true;
 
     packages = with pkgs; [
+      nerd-fonts
       google-fonts
       NType-82
     ];
