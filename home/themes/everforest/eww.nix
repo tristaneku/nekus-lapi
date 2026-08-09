@@ -15,6 +15,7 @@
 
           (box
               :orientation "v"
+              :spacing 12
               :space-evenly false
 
               (w_date)
