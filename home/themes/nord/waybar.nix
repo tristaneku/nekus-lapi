@@ -28,7 +28,7 @@
           tooltip-format = "{:%d %B (%m) %Y %H:%M}";
         };
 
-        mpris.format = "󰓀  {artist} - {title}";
+        mpris.format = "󰓀    {artist} - {title}";
 
         battery = {
           format = "{icon} {capacity}%";
