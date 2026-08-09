@@ -89,7 +89,7 @@
           border: none;
           border-radius: 0;
           min-height: 0;
-          font-family: 'JetBrainsMono Nerd Font';
+          font-family: 'Roboto';
           font-size: 12px;
       }
 

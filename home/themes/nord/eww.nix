@@ -76,10 +76,12 @@
           * {
               color: ${colors.foreground.hex};
               font-size: 16px;
+              font-family: 'Roboto';
           }
 
           .w_clock {
               font-size: 80px;
+              font-family: 'NType 82 Headline';
           }
       }
     '';

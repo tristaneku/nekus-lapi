@@ -35,7 +35,7 @@
         monitor = "HDMI-A-1";
         text = "$TIME";
         font_size = 80;
-        font_family = "$font";
+        font_family = "NType 82 Headline";
 
         position = "80, 80";
         halign = "left";

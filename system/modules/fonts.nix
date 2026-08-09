@@ -12,9 +12,9 @@
     fontconfig = {
       enable = true;
       defaultFonts = {
-        monospace = [ "Roboto Mono" ];
         sansSerif = [ "Roboto" ];
         serif = [ "Roboto Serif" ];
+        monospace = [ "Roboto Mono" ];
       };
     };
   };
