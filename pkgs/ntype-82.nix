@@ -7,7 +7,7 @@ pkgs.stdenvNoCC.mkDerivation {
   srcs = [
     ../assets/fonts/NType82-Headline.otf
     ../assets/fonts/NType82-Regular.otf
-    ../assets/fonts/NType82Mono-Regular.otf
+    ../assets/fonts/NType82-Mono.otf
   ];
 
   unpackPhase = "true";
