@@ -65,5 +65,6 @@
     "org.prismlauncher.PrismLauncher"
     "org.blender.Blender"
     "org.gnome.SimpleScan"
+    "org.vinegarhq.Sober"
   ];
 }
