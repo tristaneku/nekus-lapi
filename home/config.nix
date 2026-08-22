@@ -49,6 +49,7 @@
       naps2
       yt-dlp
       googleearth-pro
+      unityhub
     ];
   };
 
