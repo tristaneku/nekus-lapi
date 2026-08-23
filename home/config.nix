@@ -67,5 +67,6 @@
     "org.blender.Blender"
     "org.gnome.SimpleScan"
     "org.vinegarhq.Sober"
+    "com.bitwig.BitwigStudio"
   ];
 }
