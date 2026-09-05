@@ -12,6 +12,7 @@
     inputs.vicinae.homeManagerModules.default
 
     ./modules/hyprland/config.nix
+    ./modules/zed/config.nix
     ./modules/zsh/config.nix
     ./modules/git.nix
     ./modules/hypridle.nix
@@ -19,7 +20,6 @@
     ./modules/ssh.nix
     ./modules/vicinae.nix
     ./modules/xdg.nix
-    ./modules/zed.nix
 
     ./themes/config.nix
   ];
