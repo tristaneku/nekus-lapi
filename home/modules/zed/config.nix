@@ -2,8 +2,8 @@
 
 {
 
-    import = [
-        ./modules/extensions.nix
+    imports = [
+        ./modules/extentions.nix
         ./modules/keymap.nix
         ./modules/user-settings.nix
     ];
