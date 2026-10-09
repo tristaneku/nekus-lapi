@@ -31,6 +31,7 @@
 
     # User Packages
     packages = with pkgs; [
+      tidal-hifi
       bitwarden-desktop
       bitwarden-cli
       thunderbird
@@ -40,7 +41,6 @@
       nvtopPackages.amd
       htop
       hyprpicker
-      soundcloud
       gh
       glab
       p7zip
