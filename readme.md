@@ -1,2 +1,2 @@
 ## Neku's Workstation
-My private NixOS configuration for my everyday workstation.
+My private NixOS configuration for my lapi.
