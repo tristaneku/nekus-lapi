@@ -14,12 +14,12 @@
 
       # Shortcuts
       "SUPER, RETURN, exec, kitty" # Terminal
-      "SUPER CTRL, RETURN, exec, kitty ~/.workstation" # Terminal in Workstation
+      "SUPER CTRL, RETURN, exec, kitty ~/.nekus-lapi" # Terminal in Workstation
 
       "SUPER, Z, exec, zeditor" # Zed
-      "SUPER CTRL, Z, exec, zeditor ~/.workstation" # Zed in Workstation
+      "SUPER CTRL, Z, exec, zeditor ~/.nekus-lapi" # Zed in Workstation
 
-      "SUPER CTRL SHIFT, RETURN, exec, kitty -e bash -c \"nh os switch ~/.workstation\"" # System Rebuild
+      "SUPER CTRL SHIFT, RETURN, exec, kitty -e bash -c \"nh os switch ~/.nekus-lapi\"" # System Rebuild
 
       "SUPER, SPACE, exec, vicinae toggle" # Launcher
 

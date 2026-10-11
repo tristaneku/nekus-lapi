@@ -23,7 +23,7 @@
 
       background = [
         {
-          path = "~/.workstation/assets/themes/nord/wallpaper.png";
+          path = "~/.nekus-lapi/assets/themes/nord/wallpaper.png";
         }
         {
           z-index = 0;

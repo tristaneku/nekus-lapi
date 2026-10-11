@@ -1,5 +1,5 @@
 let
-  wallpaper = "~/.workstation/assets/themes/nord/wallpaper.png";
+  wallpaper = "~/.nekus-lapi/assets/themes/nord/wallpaper.png";
 in
 {
   services.hyprpaper = {

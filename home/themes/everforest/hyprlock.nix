@@ -23,7 +23,7 @@
 
       background = [
         {
-          path = "~/.workstation/assets/themes/everforest/wallpaper.jpg";
+          path = "~/.nekus-lapi/assets/themes/everforest/wallpaper.jpg";
         }
         {
           z-index = 0;

@@ -1,5 +1,5 @@
 let
-  wallpaper = "~/.workstation/assets/themes/everforest/wallpaper.jpg";
+  wallpaper = "~/.nekus-lapi/assets/themes/everforest/wallpaper.jpg";
 in
 {
   services.hyprpaper = {
