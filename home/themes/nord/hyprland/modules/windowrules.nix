@@ -24,7 +24,7 @@
 
       {
         name = "TIDAL";
-        match.class = "tidal-hifi";
+        match.class = "com.mastermindzh.tidal-hifi";
 
         pseudo = "on";
         size = "1400 840";
