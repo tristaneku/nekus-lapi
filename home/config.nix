@@ -31,7 +31,6 @@
 
     # User Packages
     packages = with pkgs; [
-      tidal-hifi
       bitwarden-desktop
       bitwarden-cli
       thunderbird
@@ -68,5 +67,6 @@
     "org.gnome.SimpleScan"
     "org.vinegarhq.Sober"
     "com.bitwig.BitwigStudio"
+    "com.mastermindzh.tidal-hifi"
   ];
 }
