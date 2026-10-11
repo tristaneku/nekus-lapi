@@ -51,7 +51,7 @@
       (deflisten v_music
           :initial ""
 
-          "playerctl --follow metadata --format '󰓀    {{ artist }} - {{ title }}' || true"
+          "playerctl --follow metadata --format '󰝚    {{ artist }} - {{ title }}' || true"
       )
 
       (defpoll v_time
