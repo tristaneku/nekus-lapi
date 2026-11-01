@@ -75,7 +75,7 @@
         "custom/caffeine" = {
           exec = "pgrep -x hypridle >/dev/null && echo 󰾪 || echo 󰅶";
           on-click = "systemctl --user is-active --quiet hypridle && systemctl --user stop hypridle || systemctl --user start hypridle";
-          tooltip-format = "Pause Idle";
+          tooltip-format = "Caffeine";
           interval = 2;
         };
       };
