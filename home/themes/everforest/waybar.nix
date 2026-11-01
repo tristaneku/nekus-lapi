@@ -18,7 +18,7 @@
         ];
         modules-right = [
           "tray"
-          "custom/hypridle"
+          "custom/caffeine"
           "pulseaudio"
           "battery"
         ];
@@ -72,8 +72,8 @@
           };
         };
 
-        "custom/hypridle" = {
-          exec = "pgrep -x hypridle >/dev/null && echo 󰅶 || echo 󰾪";
+        "custom/caffeine" = {
+          exec = "pgrep -x hypridle >/dev/null && echo 󰾪 || echo 󰅶";
           on-click = "systemctl --user is-active --quiet hypridle && systemctl --user stop hypridle || systemctl --user start hypridle";
           tooltip-format = "Pause Idle";
           interval = 2;
@@ -119,7 +119,7 @@
       #tray,
       #pulseaudio,
       #battery,
-      #custom-hypridle {
+      #custom-caffeine {
           min-width: 12px;
           margin: 0 7.5px;
       }
