@@ -12,6 +12,7 @@
     ./modules/console.nix
     ./modules/fonts.nix
     ./modules/locale.nix
+    ./nodules/network.nix
     ./modules/packages.nix
     ./modules/power-management.nix
   ];
@@ -29,11 +30,6 @@
   };
 
   system.stateVersion = stateVersion;
-
-  networking = {
-    hostName = hostname;
-    networkmanager.enable = true;
-  };
 
   security = {
     rtkit.enable = true;
@@ -57,12 +53,6 @@
 
     # Gnome Virtual File System
     gvfs.enable = true;
-
-    avahi = {
-      enable = true;
-      nssmdns4 = true;
-      openFirewall = true;
-    };
 
     printing = {
       enable = true;
