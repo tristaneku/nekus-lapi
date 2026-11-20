@@ -12,7 +12,7 @@
     ./modules/console.nix
     ./modules/fonts.nix
     ./modules/locale.nix
-    ./nodules/network.nix
+    ./modules/network.nix
     ./modules/packages.nix
     ./modules/power-management.nix
   ];
